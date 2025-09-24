@@ -1,5 +1,7 @@
 Overview
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/3e2142b3-fc34-4fde-9f7b-6ab6cb070854" />
+
 This Python script demonstrates the use of fundamental data types and structures in Python while simulating a hotel booking summary.
 It walks through integers, strings, booleans, lists, arrays, and dictionaries with real-world examples.
 
