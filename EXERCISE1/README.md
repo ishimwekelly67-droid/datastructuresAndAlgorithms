@@ -84,6 +84,3 @@ Array sum is smaller than List sum
 === Dictionaries Section ===
 Final Records: [{'id': 1, 'name': 'Deluxe Room', 'value': 120}, {'id': 2, 'name': 'Suite Room', 'value': 220}]
 Total value across records: 340
-![Image](https://github.com/user-attachments/assets/55b1da6b-ff08-480f-8e88-03dbbcafe971)
-![Image](https://github.com/user-attachments/assets/25af2e7c-36b1-4b27-88c3-b9684cbc8d95)
-![Image](https://github.com/user-attachments/assets/eb7d55d9-1669-4e4e-a005-119047d8eb28)
